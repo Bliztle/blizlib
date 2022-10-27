@@ -1,0 +1,3 @@
+C:/clibs/blizlib/cmake-build-debug/CMakeFiles/blizlib.dir
+C:/clibs/blizlib/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/clibs/blizlib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
